@@ -1,0 +1,2 @@
+# proyectotxt
+Seguda entrega 
